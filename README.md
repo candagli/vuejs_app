@@ -1,4 +1,4 @@
-# first_vuejs_app
+
 
 ## Project setup
 ```
